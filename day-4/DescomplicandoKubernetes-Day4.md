@@ -1276,7 +1276,7 @@ $ helm version
 Vamos adicionar o repositório oficial de Helm charts estáveis:
 
 ```
-$ helm repo add stable https://kubernetes-charts.storage.googleapis.com
+$ helm repo add stable https://charts.helm.sh/stable
 ```
 
 Vamos listar os repositórios Helm adicionados:
