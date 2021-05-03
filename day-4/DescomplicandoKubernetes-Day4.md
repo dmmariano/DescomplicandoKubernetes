@@ -1285,7 +1285,8 @@ Vamos listar os repositórios Helm adicionados:
 $ helm repo list
 
 NAME    URL
-stable  https://kubernetes-charts.storage.googleapis.com/
+stable  https://charts.helm.sh/stable
+
 ```
 
 ---
